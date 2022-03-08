@@ -1,6 +1,7 @@
 const config = {
-    appId: 'f23b11a4-4555-45a0-ba81-2a1e0dcf4a1c',
-    redirectUri: 'http://localhost:3000',
+    appId: '911a4c37-e720-487d-a8be-1231c0ae3fad',
+    redirectUri: 'https://flamboyant-carson-de7f45.netlify.app/',
+    // redirectUri: 'https://flamboyant-carson-de7f45.netlify.app/',
     scopes: [
         'user.read',
         'mailboxsettings.read',

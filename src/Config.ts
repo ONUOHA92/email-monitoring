@@ -4,6 +4,9 @@ const config = {
     scopes: [
         'user.read',
         'mailboxsettings.read',
+        'mail.read',
+        'mail.readwrite',
+        'mail.readbasic',
         'calendars.readwrite'
     ]
 };
